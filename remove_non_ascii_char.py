@@ -1,3 +1,5 @@
+#!/usr/bin/env python
+
 #This program removes non ascii characters, replacing then with "~"
 #https://stackoverflow.com/questions/20078816/replace-non-ascii-characters-with-a-single-space
 
